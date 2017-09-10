@@ -89,7 +89,11 @@ Start with this basic map, using a Robinson projection:
 
 * [http://bl.ocks.org/almccon/dc1acd0b5d33c18c706f2d1e3ec5f3eb](http://bl.ocks.org/almccon/dc1acd0b5d33c18c706f2d1e3ec5f3eb)
 
-Let's try switching the projection, adding another GeoJSON layer, adding mouse interactions, and more. We might end up with something like this:
+Let's try switching the projection, adding another GeoJSON layer, adding mouse interactions, and more. 
+
+Try some projections from here: [https://github.com/d3/d3/blob/master/API.md#geographies-d3-geo](https://github.com/d3/d3/blob/master/API.md#geographies-d3-geo)
+
+We might end up with something like this:
 
 * [http://bl.ocks.org/almccon/a53831a573911d0a875821c5f9fac6be](http://bl.ocks.org/almccon/a53831a573911d0a875821c5f9fac6be)
 
